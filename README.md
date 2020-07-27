@@ -16,7 +16,7 @@ const Chris046✌ = {
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
         mobileApp: ["Android Studio", "Ionic"], //bacis
-        hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read📚"],
+        hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
             js: ["React", "Next", "Vue"],
             css: ["Material-UI", "Bootstrap"]
