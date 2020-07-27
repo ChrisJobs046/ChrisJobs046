@@ -6,7 +6,7 @@
 
 ## Software Developer 👨‍💻🎬
 
-### <img src="https://giphy.com/embed/PRU4TqzdyLCHS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> A little more about me...  
+### <img src="https://giphy.com/embed/PRU4TqzdyLCHS" width="100%" height="100%" style="position:absolute"> A little more about me...  
 
 
 ```javascript
