@@ -13,10 +13,10 @@
 const Chris046✌ = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C#", "Python", "Java", "C++", "Typescript"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
         mobileApp: ["Android Studio", "Ionic"], //bacis
-        hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀"],
+        hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read📚"],
         frontEnd: {
             js: ["React", "Next", "Vue"],
             css: ["Material-UI", "Bootstrap"]
@@ -25,7 +25,7 @@ const Chris046✌ = {
             js: ["Node", "express"],
             C#: ["ASP.Net Core"]
         },
-        databases: ["SQL Server", "sqlite", "Firebase", "Mongo", "Graphql"]
+        databases: ["SQL Server", "SQlite", "Firebase", "Mongo", "Graphql"]
     },
     architecture: ["Single page applications"]
 };
