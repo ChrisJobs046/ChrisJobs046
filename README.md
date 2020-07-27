@@ -6,7 +6,7 @@
 
 ## Software Developer 👨‍💻🎬
 
-### <img src="https://media.giphy.com/media/PRU4TqzdyLCHS/giphy.gif"> A little more about me...  
+### <img src="https://media.giphy.com/media/PRU4TqzdyLCHS/giphy.gif" width="50"> A little more about me...  
 
 
 ```javascript
