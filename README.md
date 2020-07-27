@@ -6,7 +6,7 @@
 
 ## Software Developer 👨‍💻🎬
 
-### <img src="https://giphy.com/gifs/death-note-ryuk-PRU4TqzdyLCHS" width="200" height="200"> A little more about me...  
+### <img src="https://giphy.com/embed/PRU4TqzdyLCHS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> A little more about me...  
 
 
 ```javascript
