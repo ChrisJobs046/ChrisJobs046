@@ -3,6 +3,8 @@
 ## I'm Chris A. Ramon Q. 
 [![Linkedin Badge](https://img.shields.io/badge/-ChrisAlexander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://do.linkedin.com/public-profile/in/chris-a-ram%C3%B3n-q-2275321b2?challengeId=AQFvp_jBO6vhWwAAAXOOpYG4f6g1NSyRnapZ1DGK7rihUcE9N26t9tLux7bIwECNQcALfhGK0j1EvNtaky_8JAyEyQFTfoLUKw&submissionId=334f3de8-5c83-2516-6d08-1c431e234e65)](https://do.linkedin.com/public-profile/in/chris-a-ram%C3%B3n-q-2275321b2?challengeId=AQFvp_jBO6vhWwAAAXOOpYG4f6g1NSyRnapZ1DGK7rihUcE9N26t9tLux7bIwECNQcALfhGK0j1EvNtaky_8JAyEyQFTfoLUKw&submissionId=334f3de8-5c83-2516-6d08-1c431e234e65)
 [![Gmail Badge](https://img.shields.io/badge/-ChrisJobs046@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ChrisJobs046@gmail.com)](mailto:ChrisJobs046@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/ChrisJobs046?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=ChrisJobs046)
 
 ## Software Developer 👨‍💻🎬
 
