@@ -14,17 +14,17 @@
 ```javascript
 const Chris046✌ = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "Java", "C++", "Typescript"],
+    code: ["Javascript", "C#", "Python", "C++", "Typescript"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
         mobileApp: ["Android Studio", "Ionic"], //bacis
         hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
-            js: ["React", "Next", "Vue"],
+            js: ["React"],
             css: ["Material-UI", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "express"],
+            js: ["Node"],
             C#: ["ASP.Net Core"]
         },
         databases: ["SQL Server", "SQlite", "Firebase", "Mongo", "Graphql"]
