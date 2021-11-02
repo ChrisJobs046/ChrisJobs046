@@ -18,7 +18,7 @@ const Chris046✌ = {
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
         mobileApp: ["Ionic"], //bacis
-        hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
+        hobbies: ["Coding👨‍💻", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
             Python: ["Dash"]
             js: ["React"],
@@ -31,7 +31,7 @@ const Chris046✌ = {
         },
         databases: ["SQL Server", "SQlite", "Firebase", "Graphql", "PostgreSQL"]
     },
-    architecture: ["Single page applications"]
+    architecture: ["Single page applications", "MVC"]
 };
 ```
 
