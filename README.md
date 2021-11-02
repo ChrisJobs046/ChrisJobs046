@@ -13,11 +13,11 @@
 
 ```javascript
 const Chris046✌ = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "C++", "Typescript"],
+    pronouns: "He" || "Him",
+    code: ["Javascript", "C#", "Python", "Typescript"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
-        mobileApp: ["Android Studio", "Ionic"], //bacis
+        mobileApp: ["Ionic"], //bacis
         hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
             js: ["React"],
