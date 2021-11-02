@@ -20,14 +20,16 @@ const Chris046✌ = {
         mobileApp: ["Ionic"], //bacis
         hobbies: ["Coding", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
+            Python: ["Dash"]
             js: ["React"],
             css: ["Material-UI", "Bootstrap"]
         },
         backEnd: {
+            Python: ["Fast Api"]
             js: ["Node"],
             C#: ["ASP.Net Core"]
         },
-        databases: ["SQL Server", "SQlite", "Firebase", "Mongo", "Graphql"]
+        databases: ["SQL Server", "SQlite", "Firebase", "Graphql", "PostgreSQL"]
     },
     architecture: ["Single page applications"]
 };
