@@ -14,10 +14,10 @@
 ```javascript
 const Chris046✌ = {
     pronouns: "He" || "Him",
-    code: ["Javascript", "C#", "Python", "Typescript"],
+    code: ["Javascript", "C#", "Python"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
     technologies: {
-        mobileApp: ["Ionic"], //bacis
+        mobileApp: ["Ionic"], //basic
         hobbies: ["Coding👨‍💻", "Gaming"👾, "Calisthenics", "Basketball🏀🏀", "Read Books📚"],
         frontEnd: {
             Python: ["Dash"]
@@ -26,10 +26,9 @@ const Chris046✌ = {
         },
         backEnd: {
             Python: ["Fast Api"]
-            js: ["Node"],
-            C#: ["ASP.Net Core"]
+            C#: ["ASP.Net Core Web Api"]
         },
-        databases: ["SQL Server", "SQlite", "Firebase", "Graphql", "PostgreSQL"]
+        databases: ["SQL Server", "SQlite", "Firebase", "Mongo", "PostgreSQL"]
     },
     architecture: ["Single page applications", "MVC"]
 };
