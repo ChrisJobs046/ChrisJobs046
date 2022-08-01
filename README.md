@@ -12,7 +12,7 @@
 
 
 ```javascript
-const Chris046✌ = {
+const Chris046 ✌ = {
     pronouns: "He" || "Him",
     code: ["Javascript", "C#", "Python"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Philosophy", "Games", "Music🎶"],
